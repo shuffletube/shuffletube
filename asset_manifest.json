@@ -1,0 +1,52 @@
+{
+  "walls": [
+    "01_walls.gif",
+    "02_walls.png",
+    "03_walls2.gif",
+    "04_walls 4.jpg",
+    "05_walls 5.jpg",
+    "06_walls 7.jpg",
+    "07_walls 8.jpg"
+  ],
+  "floors": [
+    "01_walls 3.jpg",
+    "02_walls 6.jpg",
+    "03_walls 9.jpg",
+    "04_walls 10.jpg",
+    "05_walls 15.jpg",
+    "06_walls 17.jpg",
+    "07_images.jpeg"
+  ],
+  "ceilings": [
+    "01_walls.jpg",
+    "02_walls 11.jpg",
+    "03_walls 11.png",
+    "04_walls 12.jpg",
+    "05_walls 13.jpg",
+    "06_walls 16.gif"
+  ],
+  "posters": [
+    "01_ai16z.jpg",
+    "02_dogwifhat.jpg",
+    "03_poster 10.jpg",
+    "04_poster 2.avif",
+    "05_poster 3.avif",
+    "06_poster 4.avif",
+    "07_poster 5.avif",
+    "08_poster 5.jpg",
+    "09_poster 6.jpg",
+    "10_poster 7.jpg",
+    "11_poster 8.png",
+    "12_poster 9.jpg",
+    "13_poster.avif"
+  ],
+  "objects": [
+    "02_object 11.png",
+    "03_object 12.png",
+    "04_object 3 Background Removed.png",
+    "05_object 6 Background Removed.png",
+    "06_objects 7.png",
+    "07_objects Background Removed.png",
+    "08_objects.jpg"
+  ]
+}
