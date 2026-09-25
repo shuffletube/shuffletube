@@ -595,5 +595,5 @@ The exact API quota and Google Cloud billing/limit policies can change, so users
 
 # License
 
-See the repository's license file for the exact licensing terms.
+See the repository's license file for the exact licensing terms
 
