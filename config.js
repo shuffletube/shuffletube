@@ -3,7 +3,7 @@
    Change ONLY these 3 values before publishing a new coin.
    ============================================================ */
 window.SHUFFLETUBE_CONFIG = {
-  CONTRACT_ADDRESS: 'soon',
+  CONTRACT_ADDRESS: 'AXyobGyqRqdQphq9LzTa7y4NLSqxgnepRoyaoWfFpump',
   X_URL: 'https://x.com/Shuffletube_',
-  PUMP_URL: 'https://pump.fun/'
+  PUMP_URL: 'https://pump.fun/coin/AXyobGyqRqdQphq9LzTa7y4NLSqxgnepRoyaoWfFpump'
 };
